@@ -12,7 +12,11 @@ When purchasing real estate, there are multiple stakeholders involved, including
 A transaction coordinator is expensive, and the buyer of real estate is paying for their services indirectly. However, the transaction coordinator role is necessary as there are many documents to collect, verify and send to escrow. Many issues can arise as a result of improper documentation such as a void contract, loss of earnest money, etc. 
 
 ## Milestones:
-
+1. Define the document types that we expect a buyer to upload. Create a jupyter project with upload functionality for these document.
+2. Use llamaParse to tell if each documet type is completed. Output to the user if it is done or not
+3. When a document is uploaded, prompt the user to enter (or just know?) when a document is due. Have some sort of notification functionality to prompt a user before a document is due
+4. Create the same functionality for the seller side.
+5. Use Llama to have a chat bot where a user can ask questions about the property or the status of the process.
 
 ## Solution:
 
