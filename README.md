@@ -11,6 +11,9 @@ When purchasing real estate, there are multiple stakeholders involved, including
 
 A transaction coordinator is expensive, and the buyer of real estate is paying for their services indirectly. However, the transaction coordinator role is necessary as there are many documents to collect, verify and send to escrow. Many issues can arise as a result of improper documentation such as a void contract, loss of earnest money, etc. 
 
+## Milestones:
+
+
 ## Solution:
 
 We propose an AI solution that accepts documents from the buyer, verifies them and 
