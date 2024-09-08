@@ -20,4 +20,16 @@ A transaction coordinator is expensive, and the buyer of real estate is paying f
 
 ## Solution:
 
+Our proposed solutions is an interface that outlines a series of predermined steps that are necessary to close on a real estate transaction. These steps are:
+- Offer Submission
+- Offer Accepted
+- Home Inspection & Contingencies
+- Loan Approval
+- Appraisal
+- Final Walkthrough
+- Closing Documents & Signature
+- Funds Transfer
+  
+This interface collects relevant documentation from the buyer and seller and uses Llama to verify whether the documents are legal and complete. The solutions includes a chatbot where the buyer and seller can ask specific questions on about the transactions, including offer details, timelines, etc. 
+
 We propose an AI solution that accepts documents from the buyer, verifies them and 
